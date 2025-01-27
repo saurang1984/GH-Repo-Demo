@@ -9,3 +9,5 @@ Repo created for SBCITD Workshop demo - Delete me.
 
 # Updated from local git for merge conflict demo
 
+#Testing CodeQL workflow run
+
